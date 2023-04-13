@@ -16,6 +16,30 @@
 		3D611214296BB1460048E95C /* musicPlayerAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D611213296BB1460048E95C /* musicPlayerAppTests.swift */; };
 		3D61121E296BB1460048E95C /* musicPlayerAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D61121D296BB1460048E95C /* musicPlayerAppUITests.swift */; };
 		3D611220296BB1460048E95C /* musicPlayerAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D61121F296BB1460048E95C /* musicPlayerAppUITestsLaunchTests.swift */; };
+		3D8408DA296D181E00777229 /* D h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C2296D181B00777229 /* D h.mp3 */; };
+		3D8408DB296D181E00777229 /* C Sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C3296D181C00777229 /* C Sharp.mp3 */; };
+		3D8408DC296D181E00777229 /* F Sharp h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C4296D181C00777229 /* F Sharp h.mp3 */; };
+		3D8408DD296D181E00777229 /* F.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C5296D181C00777229 /* F.mp3 */; };
+		3D8408DE296D181E00777229 /* D Sharp h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C6296D181C00777229 /* D Sharp h.mp3 */; };
+		3D8408DF296D181E00777229 /* G h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C7296D181C00777229 /* G h.mp3 */; };
+		3D8408E0296D181E00777229 /* G Sharp h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C8296D181C00777229 /* G Sharp h.mp3 */; };
+		3D8408E1296D181E00777229 /* G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408C9296D181C00777229 /* G.mp3 */; };
+		3D8408E2296D181E00777229 /* E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CA296D181C00777229 /* E.mp3 */; };
+		3D8408E3296D181E00777229 /* D Sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CB296D181D00777229 /* D Sharp.mp3 */; };
+		3D8408E4296D181E00777229 /* B.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CC296D181D00777229 /* B.mp3 */; };
+		3D8408E5296D181E00777229 /* C.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CD296D181D00777229 /* C.mp3 */; };
+		3D8408E6296D181E00777229 /* A h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CE296D181D00777229 /* A h.mp3 */; };
+		3D8408E7296D181E00777229 /* C Sharp h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408CF296D181D00777229 /* C Sharp h.mp3 */; };
+		3D8408E8296D181E00777229 /* A Sharp h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D0296D181D00777229 /* A Sharp h.mp3 */; };
+		3D8408E9296D181E00777229 /* C h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D1296D181D00777229 /* C h.mp3 */; };
+		3D8408EA296D181E00777229 /* A.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D2296D181D00777229 /* A.mp3 */; };
+		3D8408EB296D181E00777229 /* A Sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D3296D181D00777229 /* A Sharp.mp3 */; };
+		3D8408EC296D181E00777229 /* B h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D4296D181E00777229 /* B h.mp3 */; };
+		3D8408ED296D181E00777229 /* E h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D5296D181E00777229 /* E h.mp3 */; };
+		3D8408EE296D181E00777229 /* G Sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D6296D181E00777229 /* G Sharp.mp3 */; };
+		3D8408EF296D181E00777229 /* F h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D7296D181E00777229 /* F h.mp3 */; };
+		3D8408F0296D181E00777229 /* D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D8296D181E00777229 /* D.mp3 */; };
+		3D8408F1296D181E00777229 /* F Sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D8408D9296D181E00777229 /* F Sharp.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +73,30 @@
 		3D611219296BB1460048E95C /* musicPlayerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = musicPlayerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D61121D296BB1460048E95C /* musicPlayerAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicPlayerAppUITests.swift; sourceTree = "<group>"; };
 		3D61121F296BB1460048E95C /* musicPlayerAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicPlayerAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3D8408C2296D181B00777229 /* D h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "D h.mp3"; sourceTree = "<group>"; };
+		3D8408C3296D181C00777229 /* C Sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "C Sharp.mp3"; sourceTree = "<group>"; };
+		3D8408C4296D181C00777229 /* F Sharp h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "F Sharp h.mp3"; sourceTree = "<group>"; };
+		3D8408C5296D181C00777229 /* F.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = F.mp3; sourceTree = "<group>"; };
+		3D8408C6296D181C00777229 /* D Sharp h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "D Sharp h.mp3"; sourceTree = "<group>"; };
+		3D8408C7296D181C00777229 /* G h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "G h.mp3"; sourceTree = "<group>"; };
+		3D8408C8296D181C00777229 /* G Sharp h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "G Sharp h.mp3"; sourceTree = "<group>"; };
+		3D8408C9296D181C00777229 /* G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = G.mp3; sourceTree = "<group>"; };
+		3D8408CA296D181C00777229 /* E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = E.mp3; sourceTree = "<group>"; };
+		3D8408CB296D181D00777229 /* D Sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "D Sharp.mp3"; sourceTree = "<group>"; };
+		3D8408CC296D181D00777229 /* B.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = B.mp3; sourceTree = "<group>"; };
+		3D8408CD296D181D00777229 /* C.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C.mp3; sourceTree = "<group>"; };
+		3D8408CE296D181D00777229 /* A h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A h.mp3"; sourceTree = "<group>"; };
+		3D8408CF296D181D00777229 /* C Sharp h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "C Sharp h.mp3"; sourceTree = "<group>"; };
+		3D8408D0296D181D00777229 /* A Sharp h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Sharp h.mp3"; sourceTree = "<group>"; };
+		3D8408D1296D181D00777229 /* C h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "C h.mp3"; sourceTree = "<group>"; };
+		3D8408D2296D181D00777229 /* A.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = A.mp3; sourceTree = "<group>"; };
+		3D8408D3296D181D00777229 /* A Sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Sharp.mp3"; sourceTree = "<group>"; };
+		3D8408D4296D181E00777229 /* B h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "B h.mp3"; sourceTree = "<group>"; };
+		3D8408D5296D181E00777229 /* E h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "E h.mp3"; sourceTree = "<group>"; };
+		3D8408D6296D181E00777229 /* G Sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "G Sharp.mp3"; sourceTree = "<group>"; };
+		3D8408D7296D181E00777229 /* F h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "F h.mp3"; sourceTree = "<group>"; };
+		3D8408D8296D181E00777229 /* D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = D.mp3; sourceTree = "<group>"; };
+		3D8408D9296D181E00777229 /* F Sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "F Sharp.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +147,7 @@
 		3D6111FB296BB1450048E95C /* musicPlayerApp */ = {
 			isa = PBXGroup;
 			children = (
+				3D611233296BC3D10048E95C /* Sounds */,
 				3D6111FC296BB1450048E95C /* AppDelegate.swift */,
 				3D6111FE296BB1450048E95C /* SceneDelegate.swift */,
 				3D611200296BB1450048E95C /* ViewController.swift */,
@@ -126,6 +175,37 @@
 			);
 			path = musicPlayerAppUITests;
 			sourceTree = "<group>";
+		};
+		3D611233296BC3D10048E95C /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				3D8408CE296D181D00777229 /* A h.mp3 */,
+				3D8408D0296D181D00777229 /* A Sharp h.mp3 */,
+				3D8408D3296D181D00777229 /* A Sharp.mp3 */,
+				3D8408D2296D181D00777229 /* A.mp3 */,
+				3D8408D4296D181E00777229 /* B h.mp3 */,
+				3D8408CC296D181D00777229 /* B.mp3 */,
+				3D8408D1296D181D00777229 /* C h.mp3 */,
+				3D8408CF296D181D00777229 /* C Sharp h.mp3 */,
+				3D8408C3296D181C00777229 /* C Sharp.mp3 */,
+				3D8408CD296D181D00777229 /* C.mp3 */,
+				3D8408C2296D181B00777229 /* D h.mp3 */,
+				3D8408C6296D181C00777229 /* D Sharp h.mp3 */,
+				3D8408CB296D181D00777229 /* D Sharp.mp3 */,
+				3D8408D8296D181E00777229 /* D.mp3 */,
+				3D8408D5296D181E00777229 /* E h.mp3 */,
+				3D8408CA296D181C00777229 /* E.mp3 */,
+				3D8408D7296D181E00777229 /* F h.mp3 */,
+				3D8408C4296D181C00777229 /* F Sharp h.mp3 */,
+				3D8408D9296D181E00777229 /* F Sharp.mp3 */,
+				3D8408C5296D181C00777229 /* F.mp3 */,
+				3D8408C7296D181C00777229 /* G h.mp3 */,
+				3D8408C8296D181C00777229 /* G Sharp h.mp3 */,
+				3D8408D6296D181E00777229 /* G Sharp.mp3 */,
+				3D8408C9296D181C00777229 /* G.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -231,9 +311,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D8408EB296D181E00777229 /* A Sharp.mp3 in Resources */,
+				3D8408E2296D181E00777229 /* E.mp3 in Resources */,
+				3D8408E1296D181E00777229 /* G.mp3 in Resources */,
 				3D611209296BB1460048E95C /* LaunchScreen.storyboard in Resources */,
+				3D8408E5296D181E00777229 /* C.mp3 in Resources */,
+				3D8408DC296D181E00777229 /* F Sharp h.mp3 in Resources */,
+				3D8408EE296D181E00777229 /* G Sharp.mp3 in Resources */,
+				3D8408E3296D181E00777229 /* D Sharp.mp3 in Resources */,
+				3D8408DD296D181E00777229 /* F.mp3 in Resources */,
+				3D8408DF296D181E00777229 /* G h.mp3 in Resources */,
+				3D8408E8296D181E00777229 /* A Sharp h.mp3 in Resources */,
+				3D8408E0296D181E00777229 /* G Sharp h.mp3 in Resources */,
+				3D8408DA296D181E00777229 /* D h.mp3 in Resources */,
+				3D8408E7296D181E00777229 /* C Sharp h.mp3 in Resources */,
+				3D8408EA296D181E00777229 /* A.mp3 in Resources */,
 				3D611206296BB1460048E95C /* Assets.xcassets in Resources */,
+				3D8408DE296D181E00777229 /* D Sharp h.mp3 in Resources */,
+				3D8408F0296D181E00777229 /* D.mp3 in Resources */,
+				3D8408ED296D181E00777229 /* E h.mp3 in Resources */,
+				3D8408EF296D181E00777229 /* F h.mp3 in Resources */,
+				3D8408E4296D181E00777229 /* B.mp3 in Resources */,
+				3D8408E9296D181E00777229 /* C h.mp3 in Resources */,
 				3D611204296BB1450048E95C /* Main.storyboard in Resources */,
+				3D8408F1296D181E00777229 /* F Sharp.mp3 in Resources */,
+				3D8408EC296D181E00777229 /* B h.mp3 in Resources */,
+				3D8408E6296D181E00777229 /* A h.mp3 in Resources */,
+				3D8408DB296D181E00777229 /* C Sharp.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +541,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U9LAD2DX7Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = musicPlayerApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -464,6 +569,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U9LAD2DX7Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = musicPlayerApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
